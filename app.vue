@@ -2,7 +2,7 @@
   <div>
     <NuxtLayout>
       <header>
-        <ul>
+        <ul class="flex gap-2 bg-amber-400 w-1/6">
           <li>
             <NuxtLink to="/">Home</NuxtLink>
           </li>
